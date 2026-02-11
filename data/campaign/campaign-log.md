@@ -1,5 +1,27 @@
 # Campaign Log
 
+## 2026-02-11
+- Ingested Tar live state screenshot source as `2026-02-11_tar-current-state-screenshot_notes.md`.
+- Updated source index with the new Tar state snapshot artifact.
+- Updated Tar canonical state references with confirmed snapshot values (HP `10/24`, temp HP `--`, no conditions/defenses listed, Guiding Bolt tracker text `1 Use (2/3)`).
+- Updated campaign current-state dashboard to reflect Tar's latest known HP snapshot while preserving unresolved party unknowns.
+- Ingested Session 2 live HP updates source as `2026-02-11_session-002-live-updates.md`.
+- Updated Tar HP state from `10/24` -> `19/24` (Z'Mora healing) -> full `24/24` (Uriel `Cure Wounds`, overheal capped by max HP).
+- Added Session 2 canonical session note file (`data/campaign/sessions/session-002.md`) with live combat log lines and cave exploration progression.
+- Recorded live discovery state: party exploring cave; gauntlet on pedestal found (risk Unknown).
+- Updated Session 2 live source and canonical notes with gauntlet-device findings: identified as `netherease` control device; `suppress` burns Uriel and turns stair glow off; `sentry` turns glow on without burn.
+- Updated `current-state.md` and `quest-log.md` to track the device-state decision as an active objective.
+- Recorded Session 2 progression: party began descending the cave stairs after device testing.
+- Ingested later Session 2 Tar screenshot (`2026-02-11_tar-current-state-screenshot-2_notes.md`) and recorded active advantage markers on Acrobatics and Athletics in character/session references.
+- Recorded Session 2 combat escalation: party re-enabled `sentry`, two giant statues activated, and encounter entered active combat state.
+- Expanded ingestion from Tar screenshot #2 to include visible background-tab text (Stone-Touched Wanderer, Researcher, personality/ideal lines) and proficiencies/languages/tools (including Cartographer's Tools).
+- Added live initiative detail for active encounter: Tar rolled `8` on initiative and is acting fifth in party order.
+- Added live combat resolution detail: enemy attack sequence on Tar included one miss and one `17`-damage hit (mitigation usage not yet confirmed).
+- Ingested Tar feature/spell reminder source (`2026-02-11_tar-features-spells-reminder.md`) and expanded canonical references for Druidic, Primal Order (Magician), Starry Form/Star Map details, and spell-panel tracker note.
+- Updated Session 2 state to out-of-combat after Uriel used the switch; kept Tar current HP pending mitigation confirmation from the earlier `17`-damage hit.
+- Logged Session 2 cast detail that Tar used a spell slot for `Guiding Bolt` and table-rule override that Mountain Form replaces Starry Form in active play.
+- Logged additional Session 2 progression: party solved a moon puzzle and opened a door for further cave access.
+
 ## 2026-02-09
 - Initialized campaign workspace structure.
 - Ingested `gig8_151246318.pdf` as a source artifact.

@@ -9,8 +9,7 @@ Status: `Confirmed from character-sheet images + homebrew ruling note`
 
 ## Bonus actions
 - Wild Shape (`2 / Long Rest`; regain `1` use on Short Rest)
-- Assume Starry Form (spend one Wild Shape use; lasts up to 10 minutes)
-- Archer constellation (`Luminous Arrow`): ranged spell attack within 60 ft; `1d8+3` radiant on hit
+- Mountain Form (table override in active play; replaces Starry Form usage for Tar)
 - Large Form (`1 / Long Rest`): become Large for up to 10 minutes
 
 ## Reactions
@@ -19,13 +18,30 @@ Status: `Confirmed from character-sheet images + homebrew ruling note`
 
 ## Utility and exploration
 - Druidic hidden-message feature (`Leave Druidic Message`)
+- Druidic language utility:
+  - `Speak with Animals` is always prepared
+  - Hidden Druidic messages are auto-spotted by Druidic readers; others detect presence at DC 15 Intelligence (Investigation) and cannot decipher without magic
+- Primal Order (`Magician`) effects:
+  - One extra druid cantrip
+  - `+3` bonus to Intelligence (`Arcana` or `Nature`) checks
 - Wild Companion: cast `Find Familiar` by spending a spell slot or a Wild Shape use (familiar is Fey; disappears at Long Rest)
 - Star Map utility:
   - Spellcasting focus for druid spells
   - `Guidance` and `Guiding Bolt` prepared while held
   - `Guiding Bolt` free casts: `3 / Long Rest`
+- Starry Form rules text exists on sheet, but current table ruling from user is to use Mountain Form in place of Starry Form for Tar.
 - Powerful Build: advantage on checks to end Grappled; counts as one size larger for carrying capacity
 - Potential mark-removal avenues exist at DM discretion (quests, rituals, sacrifice, primal intervention).
+
+## Proficiencies and languages (latest snapshot)
+- Armor: Light Armor, Shields
+- Weapons: Simple Weapons
+- Tools: Cartographer's Tools, Herbalism Kit
+- Languages: Common, Common Sign Language, Druidic, Giant, Primordial
+
+## Active situational modifiers (Session 2)
+- Advantage on `Acrobatics` checks (source: `2026-02-11_tar-current-state-screenshot-2_notes.md`)
+- Advantage on `Athletics` checks (source: `2026-02-11_tar-current-state-screenshot-2_notes.md`)
 
 ## Social tools
 - Stone-growth progression can influence NPC reactions (misidentification as elemental, cursed, etc.).
@@ -39,6 +55,8 @@ Status: `Confirmed from character-sheet images + homebrew ruling note`
   - Mountain Form usage: `Unknown` per-rest/per-day cap
   - Petrification Marks: `Unknown` current total
 - Consumables and ammo: See `data/character/inventory.md`
+- Session 2 cast tracking:
+  - One `Guiding Bolt` confirmed cast via spell slot (not free Star Map use)
 
 ## Active homebrew: Mountain Form (Tar)
 

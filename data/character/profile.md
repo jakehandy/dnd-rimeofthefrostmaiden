@@ -7,7 +7,7 @@ Status: `Confirmed from source images (partial text limits)`
 - Player Name: gig8
 - Class & Level: Druid 3
 - Species: Goliath
-- Background: Custom Background
+- Background: Stone-Touched Wanderer (custom background lineage)
 - Advancement: Milestone
 - Alignment: Neutral
 - Gender: Male
@@ -22,11 +22,20 @@ Status: `Confirmed from source images (partial text limits)`
 - Hair: Pale green, moss-like, glowing, with long beard
 - Faith: Animism (full sentence truncated in source image)
 
+## Background and personality (latest visible text)
+- Feature: Researcher
+- Personality traits:
+  - "Observes more than he speaks, but when he does, his voice rumbles like boulders grinding."
+  - "Tends to answer questions with cryptic natural metaphors."
+  - "Drawn to storms, caves, and tectonic events; they calm him more than quiet meadows ever could."
+- Ideal:
+  - "Balance before growth. Expansion without harmony ruins both civilization and nature."
+
 ## Core combat stats
 - AC: 14
 - Max HP: 24
-- Current HP: Unknown (blank in source image)
-- Temp HP: --
+- Current HP: 24 (live update from `2026-02-11_session-002-live-updates.md`; full after healing)
+- Temp HP: -- (snapshot from `2026-02-11_tar-current-state-screenshot_notes.md`)
 - Speed: 35 ft (walking)
 - Initiative: +1
 - Proficiency Bonus: +2
@@ -60,7 +69,13 @@ Status: `Confirmed from source images (partial text limits)`
 - Perception: +5
 - Survival: +5
 
+## Active skill-state notes (Session 2)
+- Advantage currently shown on `Acrobatics` and `Athletics` (source: `2026-02-11_tar-current-state-screenshot-2_notes.md`)
+
 ## Source coverage
+- Latest live update source: `data/sources/campaign-docs/2026-02-11_session-002-live-updates.md`
+- Latest state snapshot source (skills/background): `data/sources/character-sheets/2026-02-11_tar-current-state-screenshot-2_notes.md`
+- Latest state snapshot source: `data/sources/character-sheets/2026-02-11_tar-current-state-screenshot_notes.md`
 - Latest sheet source: `data/sources/character-sheets/2026-02-09_tar-character-sheet-chat-images_notes.md`
 - Prior sheet source: `data/sources/character-sheets/2026-02-08_gig8_151246318.pdf` (template only)
 - Portrait reference source: `data/sources/character-portraits/2026-02-09_tar.jpeg`

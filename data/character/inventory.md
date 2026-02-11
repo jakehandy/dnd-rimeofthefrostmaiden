@@ -10,6 +10,7 @@ Status: `Confirmed from source images`
 
 ## Carried
 - Backpack x1
+- Cartographer's Tools x1
 - Herbalism Kit x1
 - Oil x2
 - Rations x10
@@ -37,6 +38,7 @@ Status: `Confirmed from source images`
 - Sickle: 2 lb
 - Backpack: 5 lb
 - Herbalism Kit: 3 lb
+- Cartographer's Tools: Unknown
 - Staff: 4 lb
 - Oil (qty 2): 2 lb
 - Rations (qty 10): 20 lb

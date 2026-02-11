@@ -72,4 +72,5 @@ Status: `Confirmed from source images (prepared toggles partially unclear)`
 ## Source-specific preparation notes
 - `Speak with Animals` is marked as always prepared from Druidic
 - `Guidance` and `Guiding Bolt` are provided through Star Map while the map is held
+- Reminder snapshot confirms `Guiding Bolt` tracker text: `1 Use (2/3)` during Session 2
 - Individual prepared checkboxes across the full spell list are not fully legible in the screenshots

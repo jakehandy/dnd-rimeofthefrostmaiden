@@ -18,6 +18,7 @@ Status: `Confirmed from sheet images + portrait source`
 - Mountain Form currently applies `Astral Overgrowth` only:
   - Resistance to bludgeoning, piercing, and slashing while active
   - Temporary HP equal to `2 x Druid level`
+- Table play override (Session 2): Mountain Form is being used in place of Starry Form for Tar.
 - Form usage applies `Petrification Pressure`:
   - Each use immediately adds 1 Petrification Mark
   - Marks persist until removed at DM discretion
@@ -64,3 +65,16 @@ Status: `Confirmed from sheet images + portrait source`
 - Survived a near-death experience during the White Moose battle.
 - Triggered a shriveled elf corpse to speak the warning:
   - "Ythryn is lost. The seal is broken. They are awake."
+
+## Session 2 state snapshot (2026-02-11)
+- Source: `data/sources/character-sheets/2026-02-11_tar-current-state-screenshot_notes.md`
+- HP shown: `10 / 24`
+- Temp HP shown: `--`
+- Conditions panel: none listed
+- Defenses panel: none listed
+- Guiding Bolt tracker text shown: `1 Use (2/3)`
+
+## Session 2 live updates (2026-02-11)
+- Source: `data/sources/campaign-docs/2026-02-11_session-002-live-updates.md`
+- Received `+9 HP` from Z'Mora (intermediate `19 / 24`)
+- Received `+15 HP` from Uriel's `Cure Wounds` (capped to full `24 / 24`)
