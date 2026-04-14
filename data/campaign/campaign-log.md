@@ -1,5 +1,16 @@
 # Campaign Log
 
+## 2026-04-14
+- Ingested player notes source covering Session 1 (supplementary), Session 2 (complete), one-shot "To Kill a Wizard" (3/3/26, first ingestion), and Session 3 (3/17/26, first ingestion) as `2026-04-14_player-notes-sessions-1-3-and-oneshot.md`.
+- Rewrote `data/campaign/sessions/session-002.md` with the complete session picture — prior version was based only on mid-session live updates and was missing the full ending (Ravisin encounter, her death, black crystal removal, party flight).
+- Created `data/campaign/sessions/oneshot-001.md` — "To Kill a Wizard" one-shot: Easthaven patriots, Dzaan's execution, Johnny Bag'em, Vraxil, Netherese ruin worm creatures, Bag'em lost in tundra.
+- Created `data/campaign/sessions/session-003.md` — Session 3: girl found alive (liminal state), Hadrian studies black crystal (Netherese warding artifact), one-eyed monstrosity horde fought off, Arjay seals staircase, Tar stabilizes girl at significant personal cost.
+- Overhauled `data/campaign/current-state.md` to reflect post-Session 3 state: party at cave mouth, girl stabilized, staircase sealed, Tar resource-depleted, Arjay disgusted with Tar.
+- Updated `data/campaign/quest-log.md`: Ravisin quest and White Moose quest marked complete; Ythryn info extraction marked failed; new active quests added (the girl, one-eyed monstrosities, Bag'em, Vraxil, Easthaven Brotherhood, Netherese structure).
+- Updated `data/campaign/timeline.md` with complete Session 2, one-shot, and Session 3 event lines.
+- **Resolved canonical spellings:** `Arjay` and `Za'mora` confirmed from player notes. Updated `party/roster.md`, `party/characters/arhjay.md`, `party/characters/zmora.md`, and `timeline.md` accordingly.
+- Key new lore: White Moose was Lady Ravisin's son. Uriel's vision contact is specifically named Michael. Za'mora is male (he/him). The moon cave is a Netherese building encased in ice.
+
 ## 2026-02-11
 - Ingested Tar live state screenshot source as `2026-02-11_tar-current-state-screenshot_notes.md`.
 - Updated source index with the new Tar state snapshot artifact.
