@@ -1,5 +1,13 @@
 # Source Index
 
+## Campaign session notes
+
+- `2026-04-14_player-notes-sessions-1-3-and-oneshot.md`
+  - Origin: User-provided player notes pasted in chat
+  - Type: Markdown source note (verbatim player notes for Sessions 1–3 and one-shot)
+  - Notes: Complete player notes covering Session 1 (supplementary/corrective), full Session 2 ending, one-shot "To Kill a Wizard" (3/3/26, first ingestion), and Session 3 (3/17/26, first ingestion)
+  - Canonical impact: Rewrote session-002.md with complete picture; created oneshot-001.md and session-003.md; overhauled current-state.md and quest-log.md; updated timeline.md; resolved canonical spellings (Arjay, Za'mora); updated party character files
+
 ## Character sheets
 - `2026-02-11_tar-current-state-screenshot-2_notes.md`
   - Origin: User-provided live character-sheet screenshot in chat
