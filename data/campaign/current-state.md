@@ -1,16 +1,16 @@
 # Current State Dashboard
 
 ## Right now
-- **Current location:** Mouth of the Netherese structure (the "moon cave") near Lonelywood
-- **Last session:** Session 3 (2026-03-17)
-- **Immediate situation:** The one-eyed creature horde has been partially repelled — Za'mora and Hadrian killed most; the rest sealed below the collapsed staircase by Arjay. The kidnapped girl is stabilized (unconscious) on the floor of the cave entrance. Party is battered and Tar is resource-depleted.
+- **Current location:** On the road back to Lonelywood (Session 4 in progress)
+- **Last session:** Session 3 (2026-03-17); Session 4 ongoing
+- **Immediate situation:** Party is returning to Lonelywood. En route they found **Molty**, Uriel's dragon companion. Tar intends to speak with the kidnapped girl's mother about finding a druid in Easthaven who can treat the girl's liminal state.
 
 ## Party condition
-- **Tar:** Significant energy/resources depleted from the stabilization ritual. Exact HP Unknown (post-Session 3). **Petrification Mark: 1** (active penalty: -1 Dexterity). Stone growth visibly increased. Fox companion is outside the structure.
+- **Tar:** Significant energy/resources depleted from the stabilization ritual. Exact HP Unknown (post-Session 3). **Petrification Mark: 1** (active penalty: -1 Dexterity). Stone growth visibly increased. Fox companion outside the Netherese structure (rejoining on the road Unknown).
 - **Arjay:** Hostile toward Tar for killing Ravisin (lost the chance to learn about Ythryn). Physical condition Unknown.
 - **Hadrian:** Took psychic damage attempting to read a creature's mind during the horde fight. Holds the black crystal (Netherese warding artifact). Condition Unknown.
 - **Za'mora:** Fought the horde at the staircase top. Condition Unknown.
-- **Uriel:** Assisted Tar with the stabilization ritual. Still wearing the silver gauntlet (showing strain). Condition Unknown.
+- **Uriel:** Assisted Tar with the stabilization ritual. Still wearing the silver gauntlet (showing strain). Condition Unknown. Dragon companion Molty found on the road.
 
 ## Key facts established (cumulative)
 - The "moon cave" is a **Netherese building** encased in ice, not a natural cave.
@@ -19,29 +19,30 @@
 - The **black crystal** is a Netherese warding artifact (Hadrian confirmed). Hadrian cannot use it himself.
 - The **silver gauntlet** (Uriel) controls the cave's defense mechanisms; showing significant strain.
 - Za'mora found **wall carvings** of Netherese floating cities inside the structure.
-- **Ravisin's ritual was interrupted**, leaving the kidnapped girl in a liminal state on the verge of death. Tar successfully stabilized her (cannot fully reverse the ritual). She is now unconscious.
+- **Ravisin's ritual was interrupted**, leaving the kidnapped girl in a liminal state. Tar stabilized her (cannot fully reverse the ritual). She is now unconscious and being carried.
 - The **one-eyed monstrosities** have powerful psychic defenses — Hadrian was bombarded trying to read one's mind.
+- **Molty** — Uriel's dragon companion — found by the party on the road back to Lonelywood.
 - From the Easthaven one-shot (parallel timeline): A **Netherese ruin near Easthaven** was opened by Arcane Brotherhood wizards (led by Vraxil, including now-executed Dzaan), releasing **flying worm-like parasitic creatures** that erupt from hosts' abdomens and drive people mad. A sentient Bag of Holding (Johnny Bag'em) containing an unknown Netherese artifact is lost in the tundra.
 
 ## Best next actions
-1. **Decide what to do with the girl** — she needs ongoing care and her liminal state may require further magical intervention beyond Tar's ritual.
-2. **Plan next destination** — Lonelywood (return the girl, rest, resupply), Easthaven (follow Arcane Brotherhood/Ythryn lead), or somewhere else.
-3. **Address party tension** — Arjay is actively disgusted with Tar; this may affect group cohesion.
-4. **Long rest** — The party has been through multiple encounters without rest confirmation. Tar is resource-depleted; others likely are too.
+1. **Speak to the girl's mother** — Tar wants to ask her about a druid in Easthaven who might be able to treat the liminal state.
+2. **Long rest in Lonelywood** — party is battered and Tar is resource-depleted.
+3. **Head to Easthaven** — both for the druid lead and the Arcane Brotherhood/Ythryn threads.
+4. **Address party tension** — Arjay is actively disgusted with Tar over Ravisin's death.
 
 ## Blocking unknowns
 - The kidnapped girl's identity and full name: Unknown
-- Whether and how the liminal ritual state can be further reversed: Unknown
-- What the one-eyed monstrosities are and whether they are connected to the Easthaven worm creatures: Unknown
-- Whether the collapsed staircase will hold or for how long: Unknown
+- Whether a druid in Easthaven exists who can reverse the liminal state: Unknown
+- What the one-eyed monstrosities are and whether connected to the Easthaven worm creatures: Unknown
+- Whether the collapsed staircase will hold: Unknown
 - The artifact inside Johnny Bag'em: Unknown
 - Vraxil's location and objectives: Unknown
 - Whether Uriel's gauntlet continues to function after its strain: Unknown
 - Party HP totals after Session 3: Unknown
 - Whether a rest has been taken: Unknown
+- Molty — dragon type/age/color: Unknown
 
 ## Prep before next session
-- Clarify the girl's name if the DM reveals it.
-- Confirm whether Arjay handed the girl off to the rest of the party or is still carrying her.
-- Confirm whether the party intends to return to Lonelywood or push toward Easthaven.
-- Confirm Tar's exact remaining resources (spell slots, HP) after the stabilization ritual cost.
+- Confirm the girl's name when the DM reveals it.
+- Confirm outcome of the conversation with the mother.
+- Confirm whether the party departs for Easthaven as a group.

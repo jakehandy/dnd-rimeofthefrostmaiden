@@ -13,7 +13,10 @@ Status: `Session 1 notes + confirmed visual reference`
 - Found alive and bound at a moon-phase ritual clearing; cut free by Za'mora.
 - Took a protective stance toward the group during the White Moose confrontation.
 
-## Open identity unknowns
+## Session 4 confirmed facts
+- **Molty**: Uriel has a dragon companion named Molty. Found by the party on the road back to Lonelywood from the Netherese structure. Dragon type/age/color Unknown.
+
+
 - Class: Unknown
 - Exact species: Unknown
 - Whether Uriel is the "being" from the vision or protecting someone else: Unknown

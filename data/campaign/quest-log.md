@@ -3,7 +3,7 @@
 ## Active
 - **Investigate what happened to Auril** — Morninglord-linked vision objective carried by Uriel (contact: Michael). Ravisin's death removed one potential source of information.
 - **Determine the meaning and implications of:** "Ythryn is lost. The seal is broken. They are awake." — Arjay was specifically pursuing this via Ravisin; that avenue is now closed.
-- **Decide the fate of the kidnapped girl** — she is stabilized but in a permanent liminal ritual state (Ravisin's interrupted ritual). Who is she, and can she be further healed?
+- **Save the kidnapped girl** — stabilized but in a permanent liminal ritual state. Tar's lead: find a druid in Easthaven who may be able to treat the condition. First step: speak to the girl's mother in Lonelywood.
 - **Understand the one-eyed monstrosities** — released from behind the black crystal door; sealed below the collapsed staircase for now. What are they, and are more coming?
 - **Follow the Arcane Brotherhood / Easthaven lead** — Dzaan is executed; Vraxil is at large; Bag'em (containing an unknown Netherese artifact) is lost in the tundra. The Brotherhood is actively pillaging Netherese ruins in the region.
 - **Recover or track Johnny Bag'em** — the sentient Bag of Holding, blown into the tundra with Blinky during the one-shot blizzard. Contains a Netherese artifact of unknown importance.

@@ -1,5 +1,14 @@
 # Campaign Log
 
+## 2026-04-15 (Session 4 live)
+- Recorded Session 4 live update: party found **Molty**, Uriel's dragon companion, on the road back to Lonelywood.
+- Recorded Tar's stated intent: speak to the kidnapped girl's mother in Lonelywood about finding a druid in Easthaven who can treat the girl's liminal state.
+- Created `data/campaign/npcs/molty.md` for Molty (dragon companion of Uriel; type/age/color Unknown).
+- Updated `data/campaign/party/characters/uriel.md` with Molty confirmed fact.
+- Updated `data/campaign/current-state.md` — party now on road to Lonelywood; next action is mother conversation.
+- Updated `data/campaign/quest-log.md` — girl quest updated with Easthaven druid lead.
+- Recorded Tar's first Petrification Mark (cost of the Session 3 stabilization ritual): Mark 1 active, -1 Dexterity.
+
 ## 2026-04-14
 - Ingested player notes source covering Session 1 (supplementary), Session 2 (complete), one-shot "To Kill a Wizard" (3/3/26, first ingestion), and Session 3 (3/17/26, first ingestion) as `2026-04-14_player-notes-sessions-1-3-and-oneshot.md`.
 - Rewrote `data/campaign/sessions/session-002.md` with the complete session picture — prior version was based only on mid-session live updates and was missing the full ending (Ravisin encounter, her death, black crystal removal, party flight).
