@@ -9,7 +9,7 @@
 - Updated `data/campaign/quest-log.md`: Ravisin quest and White Moose quest marked complete; Ythryn info extraction marked failed; new active quests added (the girl, one-eyed monstrosities, Bag'em, Vraxil, Easthaven Brotherhood, Netherese structure).
 - Updated `data/campaign/timeline.md` with complete Session 2, one-shot, and Session 3 event lines.
 - **Resolved canonical spellings:** `Arjay` and `Za'mora` confirmed from player notes. Updated `party/roster.md`, `party/characters/arhjay.md`, `party/characters/zmora.md`, and `timeline.md` accordingly.
-- Key new lore: White Moose was Lady Ravisin's son. Uriel's vision contact is specifically named Michael. Za'mora is male (he/him). The moon cave is a Netherese building encased in ice.
+- Key new lore: White Moose attacked to protect "his mother's ceremony" (implies Ravisin was his mother — inferred, not confirmed). Uriel's vision contact is specifically named Michael. Za'mora is male (he/him). The moon cave is a Netherese building encased in ice.
 
 ## 2026-02-11
 - Ingested Tar live state screenshot source as `2026-02-11_tar-current-state-screenshot_notes.md`.

@@ -14,7 +14,7 @@
 
 ## Key facts established (cumulative)
 - The "moon cave" is a **Netherese building** encased in ice, not a natural cave.
-- Lady Ravisin is **dead** — killed by Tar in Session 2. The White Moose was her son.
+- Lady Ravisin is **dead** — killed by Tar in Session 2. The White Moose attacked to protect "his mother's ceremony" — implying Ravisin was his mother, though this was not stated explicitly.
 - The black crystal door is open. One-eyed monstrosities were behind it. The staircase is now collapsed/sealed — horde below is contained but not destroyed.
 - The **black crystal** is a Netherese warding artifact (Hadrian confirmed). Hadrian cannot use it himself.
 - The **silver gauntlet** (Uriel) controls the cave's defense mechanisms; showing significant strain.

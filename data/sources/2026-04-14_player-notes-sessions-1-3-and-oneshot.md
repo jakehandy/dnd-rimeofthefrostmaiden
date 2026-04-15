@@ -73,7 +73,7 @@
 ### Session 1 supplementary details
 - Uriel's vision is specifically from **Michael** (a named angelic contact of the Morninglord)
 - Uriel is a **teenage boy** (not just "a prisoner")
-- The White Moose attacked because the party was disrupting **his mother's ceremony** — the White Moose is Lady Ravisin's son
+- The White Moose attacked because the party was disrupting **his mother's ceremony** — implies the White Moose's mother is Lady Ravisin (inferred, not explicitly stated)
 - Za'mora is male (pronoun "him" used consistently)
 
 ### Session 2 complete picture (overrides live-update partial record)
