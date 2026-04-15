@@ -6,7 +6,7 @@
 - **Immediate situation:** The one-eyed creature horde has been partially repelled — Za'mora and Hadrian killed most; the rest sealed below the collapsed staircase by Arjay. The kidnapped girl is stabilized (unconscious) on the floor of the cave entrance. Party is battered and Tar is resource-depleted.
 
 ## Party condition
-- **Tar:** Significant energy/resources depleted from the stabilization ritual. Exact HP Unknown (post-Session 3). Fox companion is outside the structure.
+- **Tar:** Significant energy/resources depleted from the stabilization ritual. Exact HP Unknown (post-Session 3). **Petrification Mark: 1** (active penalty: -1 Dexterity). Stone growth visibly increased. Fox companion is outside the structure.
 - **Arjay:** Hostile toward Tar for killing Ravisin (lost the chance to learn about Ythryn). Physical condition Unknown.
 - **Hadrian:** Took psychic damage attempting to read a creature's mind during the horde fight. Holds the black crystal (Netherese warding artifact). Condition Unknown.
 - **Za'mora:** Fought the horde at the staircase top. Condition Unknown.

@@ -45,7 +45,7 @@ Use this page for the fastest lookup in session.
   - Temporary HP = `2 x Druid level`
 - Mountain Form cost: `+1 Petrification Mark` each use
 - Deferred homebrew (do not apply yet): `Crushing Magic`, `Rooted Presence`
-- Current Petrification Marks: Unknown
+- Current Petrification Marks: `1` — active penalty: -1 Dexterity (first mark; applied Session 3)
 
 ## RP cues for Tar
 - Observes more than he speaks (source text is partially truncated)

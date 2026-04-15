@@ -53,7 +53,7 @@ Status: `Confirmed from character-sheet images + homebrew ruling note`
   - Stone's Endurance: `2 / Long Rest`
   - Star Map free `Guiding Bolt`: `3 / Long Rest`
   - Mountain Form usage: `Unknown` per-rest/per-day cap
-  - Petrification Marks: `Unknown` current total
+  - Petrification Marks: `1` (first mark applied Session 3 — cost of stabilizing the kidnapped girl)
 - Consumables and ammo: See `data/character/inventory.md`
 - Session 2 cast tracking:
   - One `Guiding Bolt` confirmed cast via spell slot (not free Star Map use)
