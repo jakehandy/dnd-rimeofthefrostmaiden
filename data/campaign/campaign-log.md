@@ -1,5 +1,23 @@
 # Campaign Log
 
+## 2026-05-19 (later)
+- Updated Tar current state from player confirmations: HP `1 / 24`, Petrification Marks `1`. Spell-slot tracking deferred per player.
+- Updated `current-state.md` to reflect Tar's `1 / 24` HP and to flag immediate healing/rest need.
+- Noted in `quest-log.md` that the Netherese gauntlet control device is likely broken per DM and should be treated as non-functional unless re-tested.
+- Confirmed in `npcs/frost-druids.md` that "Frost Druids" is the in-world label for the Ravasin-aligned chapel pair (and order at large).
+
+## 2026-05-19
+- Adopted DM-source spellings as canonical and updated repo: `Ravisin` -> `Ravasin`, `Arhjay` -> `Arjay`, `Z'Mora` -> `Za'mora`. Older variants retained as `Historical variant` notes on character files; portrait source filenames preserved.
+- Renamed `data/campaign/party/characters/arhjay.md` -> `arjay.md` via `git mv`.
+- Ingested Session 3 DM recap source (`2026-05-19_session-003-dm-notes.md`, in-game date `2026-03-17`).
+- Added canonical `data/campaign/sessions/session-003.md` covering: realization that the rescued girl is alive, Hadrian identifying the moon-cave black crystal as a Netherese warding artifact, defense of the top of the Netherese stairs against one-eyed psychic creatures, Tar+Uriel ritual stabilization on the girl, and Arjay collapsing the stairwell.
+- Ingested Session 4 DM recap source (`2026-05-19_session-004-dm-notes.md`, in-game date `2026-04-14`).
+- Added canonical `data/campaign/sessions/session-004.md` covering: girl named as Cara, ambush by Uriel's family pet small gold dragon Malty, return to a ravaged Lonelywood blamed on "ghosts," undamaged chapel as triage center, two Frost Druids proselytizing for Auril and recognizing Cara as Ravasin's ritual subject, Speaker Nimsy Huddle's Duergar intel, mother gifting Za'mora a horn of blasting, Uriel's dream-vision from Michael, Chardalyn fragment and Duergar tracks in chapel cellar, Maer Dualdon crossing and awakened plesiosaurus (Ravasin's "daughter") encounter, Cara manifesting magical power (drives off plesiosaurus, stabilizes Tar, collapses with new white hair streak).
+- Created NPC files: `cara.md`, `creuse-pelleteuse.md`, `malty.md`, `nimsy-huddle.md`, `frost-druids.md`.
+- Created location files: `lonelywood.md`, `maer-dualdon.md`.
+- Updated `timeline.md`, `quest-log.md`, `current-state.md`, `campaign-overview.md`, `party/roster.md`, and party character files (`tar.md`, `uriel.md`, `arjay.md`, `hadrian.md`, `zmora.md`) with Session 3-4 facts and the new canonical spellings.
+- Updated `data/sources/index.md` with the two new DM-notes entries.
+
 ## 2026-02-11
 - Ingested Tar live state screenshot source as `2026-02-11_tar-current-state-screenshot_notes.md`.
 - Updated source index with the new Tar state snapshot artifact.

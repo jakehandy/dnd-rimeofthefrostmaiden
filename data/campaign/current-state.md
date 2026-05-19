@@ -1,23 +1,29 @@
 # Current State Dashboard
 
 ## Right now
-- Current location: Lower cave stair area (exact chamber name Unknown)
-- Immediate objective: Continue lower-cave investigation through the newly opened moon-puzzle door and safely control/understand the gauntlet-switch system
-- Party condition: White Moose defeated; Tar suffered a near-death event in Session 1; latest Session 2 live updates had Tar at full `24 / 24` HP (`--` temp HP), then an enemy attack sequence landed a `17` damage hit on Tar (mitigation/reduction use Unknown; exact current HP pending confirmation). In-cave gauntlet device behavior confirmed: `suppress` burns Uriel and turns stair glow off; `sentry` turns glow on with no burn. Encounter is currently out of combat after Uriel used the switch.
-- Time pressure: Potentially high if Ravisin's ceremony cycle continues
+- Current location: Crossing the frozen `Maer Dualdon` en route from Lonelywood toward `Termalaine` (next destination: Easthaven, to reach Druid `Creuse Pelleteuse`).
+- Immediate objective: Survive the Maer Dualdon crossing after the awakened plesiosaurus attack and continue toward Termalaine/Easthaven to attempt a full reversal of Cara's ritual.
+- Party condition:
+  - Tar: `1 / 24` HP after the plesiosaurus near-death (stabilized by Cara). Petrification Marks at `1`.
+  - Cara is unconscious on the ice after entering her magical state; a new white streak has appeared in her hair.
+  - Other party members not flagged as injured in the latest source, but resource state is Unknown.
+- Time pressure: High - Cara will eventually die without a full ritual reversal; Duergar activity in the Ten Towns is escalating.
 
 ## Best next actions (to keep updated)
-1. Confirm Tar's exact current HP after the `17` hit (including any mitigation used).
-2. Determine whether changing gauntlet state controls statue aggression or broader ward behavior.
-3. Resume Ravisin pursuit once cave device risk is understood.
+1. Resume the crossing of Maer Dualdon and reach Termalaine safely.
+2. Push to Easthaven to find `Creuse Pelleteuse` and attempt the full reversal of Cara's ritual.
+3. Follow up the Duergar/Chardalyn lead from the Lonelywood chapel cellar (and Nimsy Huddle's Ten Towns pattern report).
+4. Decide what to do about the two Frost Druids in Lonelywood who recognize Cara.
 
 ## Blocking unknowns
-- Exact current position after Session 1 is Unknown.
-- Identity/status of the frantic mother's daughter is Unknown.
-- Whether the party has completed a rest and resupply is Unknown.
-- What stair glow state functionally changes (trap, ward, alert state, or other): Unknown
-- Whether statue activation is directly tied to `sentry` state: Unknown
+- Whether `Creuse Pelleteuse` is reachable in Easthaven and willing/able to help.
+- Whether the awakened plesiosaurus will return or follow.
+- Whether `Malty` will rejoin the party again and in what capacity.
+- The full nature of Cara's emerging magical state (and the meaning of the white hair streak).
+- Identity of the one-eyed psychic creatures sealed below the Netherese stairs.
+- Whether the Lonelywood chapel's untouched state has a mechanical/warding explanation.
 
 ## Prep before next session
-- Confirm canonical spellings: `Arhjay` vs `Arjay`, `Z'Mora` vs `Za'mora`.
-- Clarify whether to prioritize Easthaven Arcane Brotherhood lead now or after resolving Ravisin.
+- Tar is at `1 / 24` HP - immediate healing or short/long rest needed before any further engagement.
+- Confirm whether the `horn of blasting` Za'mora received is fully charged (assumed yes unless DM specifies).
+- Confirm whether the Netherese warding crystal Hadrian carries has any attunement/usage gating to test.

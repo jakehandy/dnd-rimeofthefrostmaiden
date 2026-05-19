@@ -23,6 +23,16 @@
   - Canonical impact: Scaffold only, no character stats updated
 
 ## Campaign docs and rulings
+- `2026-05-19_session-004-dm-notes.md`
+  - Origin: User-provided DM recap pasted in chat (in-game date `4/14/26`)
+  - Type: Markdown source note
+  - Notes: Return to ravaged Lonelywood, Cara named, Malty golden dragon, Frost Druids at chapel, Nimsy Huddle Duergar intel, Chardalyn chapel cellar lead, Michael dream-vision, Maer Dualdon plesiosaurus, Cara magical state and white hair streak
+  - Canonical impact: Added `session-004.md`, new NPC files (Cara, Creuse Pelleteuse, Malty, Nimsy Huddle, Frost Druids), new location files (Lonelywood, Maer Dualdon), refreshed campaign overview/current-state/timeline/quest-log and party character notes
+- `2026-05-19_session-003-dm-notes.md`
+  - Origin: User-provided DM recap pasted in chat (in-game date `3/17/26`)
+  - Type: Markdown source note
+  - Notes: Stair defense vs. one-eyed psychic horde, Tar stabilization ritual on the rescued girl, Hadrian identifies moon-cave black crystal as Netherese warding artifact, Arjay collapses stairwell
+  - Canonical impact: Added `session-003.md`; updated party character notes, timeline, quest-log, campaign overview, current-state
 - `2026-02-11_tar-features-spells-reminder.md`
   - Origin: User-provided Session 2 chat transcription of Tar features/traits/spells
   - Type: Markdown source note
@@ -36,7 +46,7 @@
 - `2026-02-09_session-001-player-notes.md`
   - Origin: User-provided Session 1 notes pasted in chat (session date `2026-01-13`)
   - Type: Markdown source note
-  - Notes: First-session chronology covering party introductions, White Moose encounter, Lady Ravisin clues, and Ythryn warning quote
+  - Notes: First-session chronology covering party introductions, White Moose encounter, Lady Ravasin clues, and Ythryn warning quote
   - Canonical impact: Added `session-001.md` and updated campaign overview/current-state/timeline/quest-log plus party character campaign context
 - `2026-02-09_tar-mountain-form-homebrew.md`
   - Origin: User-provided homebrew rules text (chat message)

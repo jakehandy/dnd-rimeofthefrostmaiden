@@ -23,7 +23,7 @@
 - Tar confirmed one `Guiding Bolt` cast used a spell slot.
 - Tar confirmed table rule override: Mountain Form is used in place of Starry Form.
 - Party solved a moon-themed puzzle and opened a door.
-- Round Unknown - Z'Mora - Healing effect - Tar gains `+9 HP` (from `10/24` to `19/24`).
+- Round Unknown - Za'mora - Healing effect - Tar gains `+9 HP` (from `10/24` to `19/24`).
 - Round Unknown - Uriel - `Cure Wounds` - Tar gains `+15 HP`, capped at `24/24` (full).
 
 ## NPCs encountered
