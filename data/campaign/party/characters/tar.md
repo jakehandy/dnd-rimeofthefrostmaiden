@@ -61,7 +61,7 @@ Status: `Confirmed from sheet images + portrait source`
   - Animals are awakening.
   - The White Moose lives in the moon cave.
   - A deceptive "lady with the owl face" coerces people and grants unwanted gifts.
-- Joined Za'mora, Arjay/Arhjay, and Hadrian to track the White Moose.
+- Joined Za'mora, Arjay, and Hadrian to track the White Moose.
 - Survived a near-death experience during the White Moose battle.
 - Triggered a shriveled elf corpse to speak the warning:
   - "Ythryn is lost. The seal is broken. They are awake."
@@ -76,5 +76,19 @@ Status: `Confirmed from sheet images + portrait source`
 
 ## Session 2 live updates (2026-02-11)
 - Source: `data/sources/campaign-docs/2026-02-11_session-002-live-updates.md`
-- Received `+9 HP` from Z'Mora (intermediate `19 / 24`)
+- Received `+9 HP` from Za'mora (intermediate `19 / 24`)
 - Received `+15 HP` from Uriel's `Cure Wounds` (capped to full `24 / 24`)
+
+## Session 3 confirmed facts (2026-03-17)
+- Source: `data/sources/campaign-docs/2026-05-19_session-003-dm-notes.md`
+- Examined the rescued girl and determined he could stabilize her with his own ritual but could not fully reverse Lady Ravasin's original ritual.
+- Performed the stabilization ritual alongside Uriel while the rest of the party defended the top of the stairs.
+- Stabilization succeeded; girl left unconscious on the cave floor.
+- Paid a heavy personal energy cost for the ritual (mechanical specifics Unknown).
+
+## Session 4 confirmed facts (2026-04-14)
+- Source: `data/sources/campaign-docs/2026-05-19_session-004-dm-notes.md`
+- Warned the party Cara will eventually die without a full reversal of the ritual; proposed his Easthaven contact `Creuse Pelleteuse`.
+- Confronted the two Frost Druids at the Lonelywood chapel.
+- Targeted by the awakened plesiosaurus on Maer Dualdon (revealed to be Lady Ravasin's "daughter") after Arjay disclosed Tar killed Lady Ravasin.
+- Stabilized by Cara mid-encounter when she entered a magical state.

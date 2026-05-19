@@ -1,6 +1,6 @@
 # Hadrian
 
-Status: `Session 1 notes + confirmed visual reference`
+Status: `Sessions 1-4 + confirmed visual reference`
 
 ## Identity (campaign facts)
 - Species: Eladrin
@@ -9,9 +9,17 @@ Status: `Session 1 notes + confirmed visual reference`
 
 ## Session 1 confirmed facts
 - Arrived in Lonelywood and faced distrust from Ten-Towners after mentioning wizardry/magic.
-- Was directed toward Arjay/Arhjay, a half-orc mercenary familiar with Ten-Towns travel.
-- Heard rumor (through Arjay/Arhjay) that a wizard from the Arcane Brotherhood is causing a stir in Easthaven.
-- Joined the White Moose tracking effort with Za'mora and Arjay/Arhjay.
+- Was directed toward Arjay, a half-orc mercenary familiar with Ten-Towns travel.
+- Heard rumor (through Arjay) that a wizard from the Arcane Brotherhood is causing a stir in Easthaven.
+- Joined the White Moose tracking effort with Za'mora and Arjay.
+
+## Session 3 confirmed facts (2026-03-17)
+- Studied the black crystal recovered from the moon cave and identified it as an ancient Netherese warding artifact; could not personally activate or use it.
+- Attempted to enter the mind of one of the one-eyed creatures during the stair defense; was bombarded with psychic energy.
+- Eliminated most of the escaping horde alongside Za'mora.
+
+## Session 4 confirmed facts (2026-04-14)
+- Investigated Lonelywood at night and found a single piece of `Chardalyn` in the chapel cellar, plus Duergar tracks near the cellar entrance; concluded a larger stash had been kept there.
 
 ## Open identity unknowns
 - Missing friend's identity: Unknown
