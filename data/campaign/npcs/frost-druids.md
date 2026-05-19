@@ -3,6 +3,7 @@
 ## Snapshot
 - Role: Two Auril-aligned Druids preaching at the Lonelywood chapel after the attack
 - Affiliation: Lady Ravasin's order (same/similar attire); Auril
+- Label: "Frost Druids" is the working in-world label per DM (confirmed 2026-05-19)
 - First seen: Session 4, at the Lonelywood chapel
 - Current status: Active in Lonelywood; last seen pressing Auril repentance on the wounded crowd
 

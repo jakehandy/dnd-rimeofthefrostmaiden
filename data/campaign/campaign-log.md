@@ -1,5 +1,11 @@
 # Campaign Log
 
+## 2026-05-19 (later)
+- Updated Tar current state from player confirmations: HP `1 / 24`, Petrification Marks `1`. Spell-slot tracking deferred per player.
+- Updated `current-state.md` to reflect Tar's `1 / 24` HP and to flag immediate healing/rest need.
+- Noted in `quest-log.md` that the Netherese gauntlet control device is likely broken per DM and should be treated as non-functional unless re-tested.
+- Confirmed in `npcs/frost-druids.md` that "Frost Druids" is the in-world label for the Ravasin-aligned chapel pair (and order at large).
+
 ## 2026-05-19
 - Adopted DM-source spellings as canonical and updated repo: `Ravisin` -> `Ravasin`, `Arhjay` -> `Arjay`, `Z'Mora` -> `Za'mora`. Older variants retained as `Historical variant` notes on character files; portrait source filenames preserved.
 - Renamed `data/campaign/party/characters/arhjay.md` -> `arjay.md` via `git mv`.

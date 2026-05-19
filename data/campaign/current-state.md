@@ -4,7 +4,7 @@
 - Current location: Crossing the frozen `Maer Dualdon` en route from Lonelywood toward `Termalaine` (next destination: Easthaven, to reach Druid `Creuse Pelleteuse`).
 - Immediate objective: Survive the Maer Dualdon crossing after the awakened plesiosaurus attack and continue toward Termalaine/Easthaven to attempt a full reversal of Cara's ritual.
 - Party condition:
-  - Tar was reduced to near-death by the plesiosaurus and stabilized by Cara; exact current HP Unknown.
+  - Tar: `1 / 24` HP after the plesiosaurus near-death (stabilized by Cara). Petrification Marks at `1`.
   - Cara is unconscious on the ice after entering her magical state; a new white streak has appeared in her hair.
   - Other party members not flagged as injured in the latest source, but resource state is Unknown.
 - Time pressure: High - Cara will eventually die without a full ritual reversal; Duergar activity in the Ten Towns is escalating.
@@ -24,6 +24,6 @@
 - Whether the Lonelywood chapel's untouched state has a mechanical/warding explanation.
 
 ## Prep before next session
-- Confirm Tar's exact current HP after the plesiosaurus encounter.
+- Tar is at `1 / 24` HP - immediate healing or short/long rest needed before any further engagement.
 - Confirm whether the `horn of blasting` Za'mora received is fully charged (assumed yes unless DM specifies).
 - Confirm whether the Netherese warding crystal Hadrian carries has any attunement/usage gating to test.

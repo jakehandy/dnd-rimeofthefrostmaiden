@@ -9,7 +9,7 @@
 - Continue investigating what happened to Auril (Morninglord-linked vision objective carried by Uriel); follow up on Michael's disturbed reaction to the released Netherese creatures.
 - Determine the meaning and implications of: "Ythryn is lost. The seal is broken. They are awake."
 - Determine the function, attunement, and safe-use protocol of:
-  - The Netherese gauntlet control device (`suppress` burns + stair glow off; `sentry` no burn + stair glow on).
+  - The Netherese gauntlet control device (`suppress` burns + stair glow off; `sentry` no burn + stair glow on). Status note (2026-05-19, per DM): likely broken; treat as non-functional unless re-tested.
   - The Netherese warding crystal recovered from the moon cave (no current party user).
 - Identify and counter the awakened plesiosaurus on Maer Dualdon (Ravasin's "daughter").
 - Decide Malty's role going forward (escort home, travel with party, leave be).

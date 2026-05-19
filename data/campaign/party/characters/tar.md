@@ -22,7 +22,7 @@ Status: `Confirmed from sheet images + portrait source`
 - Form usage applies `Petrification Pressure`:
   - Each use immediately adds 1 Petrification Mark
   - Marks persist until removed at DM discretion
-- Petrification Mark total: Unknown
+- Petrification Mark total: `1` (confirmed 2026-05-19)
 - Deferred for now (do not apply): `Crushing Magic`, `Rooted Presence`
 
 ## Roleplay signals from marks
@@ -92,3 +92,9 @@ Status: `Confirmed from sheet images + portrait source`
 - Confronted the two Frost Druids at the Lonelywood chapel.
 - Targeted by the awakened plesiosaurus on Maer Dualdon (revealed to be Lady Ravasin's "daughter") after Arjay disclosed Tar killed Lady Ravasin.
 - Stabilized by Cara mid-encounter when she entered a magical state.
+
+## Current state (confirmed 2026-05-19)
+- HP: `1 / 24`
+- Petrification Marks: `1`
+- Spell slots: Unknown (deferred per DM/player)
+- Inventory deltas since Session 2: Unknown
