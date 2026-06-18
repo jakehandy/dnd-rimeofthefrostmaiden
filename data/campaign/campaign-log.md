@@ -1,5 +1,17 @@
 # Campaign Log
 
+## 2026-06-17
+- Ingested full player notes for Sessions 1-5 plus the "To Kill a Wizard" one-shot as source `2026-05-19_player-notes-sessions-1-5.md`; recorded it in the source index.
+- Major canon correction: the "lady with the owl face" is **Lady Ravasin**, encountered and **killed by Tar in Session 2** (not an ongoing pursuit); the rescued "kidnapped daughter" is **Cara**, alive and traveling with the party.
+- Rewrote `session-002.md` to add the true narrative (Netherese moon-cave delve, Ravasin's warning and death, black-crystal seal broken) alongside the prior table-mechanics log.
+- Added canonical session files: `session-003.md`, `session-004.md`, `session-005.md`, and `oneshot-2026-03-03_to-kill-a-wizard.md`.
+- Rewrote dashboards `current-state.md`, `quest-log.md`, and `campaign-overview.md`; appended Sessions 2-5 events to `timeline.md`. Current position: **Termalaine**, after repelling a Duergar attack, escorting Cara toward a cure in Easthaven.
+- Added NPC files: Cara, Lady Ravasin, Nimsy Huddle, Masthew, Malty, Michael, and the mysterious woman + hooded Dragonborn.
+- Added location files: Lonelywood, Termalaine, and the moon cave (Netherese building).
+- Added faction files: Frost Druids (Ravasin's order), Duergar, and Arcane Brotherhood.
+- Appended "Story arc, Sessions 2-5" sections to all five party-character files (Tar, Uriel, Arhjay, Z'Mora, Hadrian).
+- Noted spelling divergence for follow-up: player notes use `Arjay` / `Za'mora` / `Ravasin` vs repo `Arhjay` / `Z'Mora` / `Ravisin`.
+
 ## 2026-02-11
 - Ingested Tar live state screenshot source as `2026-02-11_tar-current-state-screenshot_notes.md`.
 - Updated source index with the new Tar state snapshot artifact.

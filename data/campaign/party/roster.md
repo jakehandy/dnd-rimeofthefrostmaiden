@@ -7,6 +7,9 @@
 - Hadrian
 - Z'Mora (also written `Za'mora` in Session 1 notes)
 
+## Traveling NPCs
+- Cara — rescued ritual subject; cursed/failing; the party's charge (as of Session 5). See `data/campaign/npcs/cara.md`.
+
 ## Canonical visual sources
 - Tar: `data/sources/character-portraits/2026-02-09_tar.jpeg`
 - Uriel: `data/sources/character-portraits/2026-02-09_uriel.png`

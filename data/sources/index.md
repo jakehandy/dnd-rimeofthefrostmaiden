@@ -23,6 +23,11 @@
   - Canonical impact: Scaffold only, no character stats updated
 
 ## Campaign docs and rulings
+- `2026-05-19_player-notes-sessions-1-5.md`
+  - Origin: User-pasted player notes in chat (2026-06-17), covering Sessions 1-5 plus the "To Kill a Wizard" one-shot
+  - Type: Verbatim player-notes transcription
+  - Notes: Authoritative narrative for Sessions 2-5 (new) and the one-shot; reconciles the owl-faced lady as Lady Ravasin (killed S2), reveals the rescued girl as Cara, and adds Duergar/Chardalyn, Frost Druids, Termalaine, Masthew, Malty, and the mysterious woman+Dragonborn threads. Player spellings: Arjay, Za'mora, Ravasin.
+  - Canonical impact: Updated session-002 narrative; added session-003/004/005 and the one-shot file; rewrote current-state, quest-log, timeline, campaign-overview; added NPC/location/faction files; appended Sessions 2-5 arcs to all five party-character files
 - `2026-02-11_tar-features-spells-reminder.md`
   - Origin: User-provided Session 2 chat transcription of Tar features/traits/spells
   - Type: Markdown source note

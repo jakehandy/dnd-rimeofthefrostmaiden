@@ -9,11 +9,11 @@ Use it to:
 - ingest new files (PDFs, screenshots, notes) over time
 
 ## Current status
-- Imported source file: `gig8_151246318.pdf`
-- That PDF appears to be an unfilled character-sheet template, so no character-specific stats/features were recoverable from it.
-- Ingested filled Tar character-sheet chat images (`data/sources/character-sheets/2026-02-09_tar-character-sheet-chat-images_notes.md`) and updated canonical character data.
-- Ingested party portrait references for Tar, Uriel, Arhjay, Hadrian, and Z'Mora.
-- Canonical party reference docs now live under `data/campaign/party/`.
+- Campaign caught up through **Session 5 (2026-05-19)** plus the "To Kill a Wizard" one-shot. See `data/campaign/current-state.md`.
+- Where the party is: **Termalaine**, after repelling a Duergar attack, escorting the cursed girl **Cara** toward a cure in **Easthaven**.
+- Imported source file: `gig8_151246318.pdf` — an unfilled character-sheet template; no character data recoverable.
+- Ingested filled Tar character-sheet chat images and updated canonical character data.
+- Ingested party portrait references for Tar, Uriel, Arhjay, Hadrian, and Z'Mora; reference docs under `data/campaign/party/`.
 
 ## How to use this with me
 Ask things like:
@@ -36,4 +36,6 @@ When you have new materials:
 - `inbox/`: drop-zone for new files to ingest.
 
 ## Next thing to add
-Add the latest session outcomes (location, NPC interactions, quest progress) so `data/campaign/current-state.md` and logs can be updated for next-session planning.
+- Session 6 outcomes when you play them.
+- Confirm canonical name spellings (Arjay/Arhjay, Za'mora/Z'Mora, Ravasin/Ravisin) so the repo can standardize.
+- Mechanics for new gear: the horn of blasting (S4) and the magical arrows (S5).

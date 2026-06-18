@@ -34,3 +34,11 @@ Status: `Session 1 notes + confirmed visual reference`
 
 ## Prompt seed
 "Uriel, white-haired youthful spellcaster in red and gold coat, wielding ornate staff with glowing red gem, painterly fantasy portrait"
+
+## Story arc, Sessions 2-5 (source: 2026-05-19 player notes)
+- S2: Hastily **donned the silver gauntlet** controlling the moon cave's Netherese defenses and used it to advance the party (straining the device).
+- S3: With Tar, worked to **save the dying girl** while the others held off the released creatures.
+- S4: His **family pet, a small golden dragon named Malty**, found the party — hinting at a notable family background.
+- S4: Dreamed of **Michael** again, who asked for an update on Auril; Michael seemed **disturbed** when Uriel mentioned the creatures released from the Netherese building.
+- S5: Joined Tar and Hadrian to find a healer for Cara and resupply in Termalaine.
+- Standing charge (from S1 vision): learn what happened to **Auril** for the Morninglord, and guide/protect a being on a sacred quest (identity of that being still unconfirmed — possibly Cara).

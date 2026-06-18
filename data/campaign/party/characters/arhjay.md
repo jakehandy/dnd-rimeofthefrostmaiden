@@ -35,3 +35,11 @@ Status: `Session 1 notes + confirmed visual reference`
 
 ## Prompt seed
 "Arhjay, towering blue-skinned horned primal warrior-mage with crystal growths and earth magic, painterly fantasy illustration"
+
+## Story arc, Sessions 2-5 (source: 2026-05-19 player notes)
+- S2: Wanted to **interrogate Ravasin about Ythryn** and was disgusted when Tar killed her instead. Took the dead girl's body and set off toward Lonelywood.
+- S3: On the road, realized the **girl was still barely alive**; reluctantly turned back to bring her to Tar. In the cave fight, **collapsed the stairwell roof** to block the released horde.
+- S4: Helped Speaker **Nimsy Huddle** stitch a wounded man and earned her confidence — learning of the escalating **Duergar** threat across the Ten-Towns.
+- S4: Revealed to the awakened plesiosaur that his group killed **Ravasin**, triggering its attack on Tar.
+- S5: With Za'mora, found Termalaine's Speaker **Masthew** and **warned him of the coming Duergar attack**, coordinating the town's defense.
+- Throughline: pragmatic, information-first mercenary; values intel and outcomes over righteous violence; a capable face/negotiator with the Ten-Towns Speakers.

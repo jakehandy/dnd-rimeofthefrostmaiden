@@ -78,3 +78,11 @@ Status: `Confirmed from sheet images + portrait source`
 - Source: `data/sources/campaign-docs/2026-02-11_session-002-live-updates.md`
 - Received `+9 HP` from Z'Mora (intermediate `19 / 24`)
 - Received `+15 HP` from Uriel's `Cure Wounds` (capped to full `24 / 24`)
+
+## Story arc, Sessions 2-5 (source: 2026-05-19 player notes)
+- S2: In the moon cave, enraged by Ravasin's harm to local animals, **Tar killed Lady Ravasin** (the owl-faced lady) — over Arjay's objection.
+- S3: Examined the dying ritual girl; performed his own **stabilizing ritual** to save her, sacrificing much of his own energy. Can stabilize but **cannot fully reverse** Ravasin's ritual.
+- S4: Named the girl's only real hope — a Druid he knows in Easthaven, **Creuse Pelleteuse**. Confronted two Frost Druids at the Lonelywood chapel.
+- S4: On Maer Dualdon, an awakened **plesiosaur** (Ravasin's "child") tried to kill Tar after Arjay revealed Tar's group killed Ravasin; **Cara drove it off and stabilized him**.
+- S5: **Revived by Za'mora**; pushed the party to rush the worsening Cara to Termalaine; went with Hadrian and Uriel to find a healer and resupply.
+- Emotional throughline: deeply protective of awakened/wild animals; quick to violence against those who harm them (the Ravasin kill); now personally invested in saving Cara.
