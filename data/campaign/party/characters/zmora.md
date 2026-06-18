@@ -33,3 +33,11 @@ Status: `Session 1 notes + confirmed visual reference`
 
 ## Prompt seed
 "Z'Mora, snow leopard feline archer in white winter cloak, crouched in snow with bow and green-fletched arrows, painterly fantasy illustration"
+
+## Story arc, Sessions 2-5 (source: 2026-05-19 player notes)
+- S2: Kept watch at the cave mouth; found the Netherese **sky-city wall carvings**; **removed the black crystal** from the warded door, unsealing whatever lay behind it.
+- S3: Heard the released creatures climbing the stairs and **readied the party for battle**; with Hadrian, destroyed most of the escaping horde.
+- S4: Brought **Cara back to her mother**; received a family heirloom **horn of blasting** as payment.
+- S5: With Arjay, sought out Speaker **Masthew** in Termalaine. Received **magical arrows** from Hadrian (bought cheap from an unaware shopkeeper). **Revived Tar** at the start of the session.
+- Gear gained: **horn of blasting** (S4), **magical arrows** (S5).
+- Throughline: the party's tracker/scout and ranged threat; reliable in a pinch (revives, recon, archery).
