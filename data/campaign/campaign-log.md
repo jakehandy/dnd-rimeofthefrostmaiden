@@ -1,5 +1,10 @@
 # Campaign Log
 
+## 2026-06-18
+- Updated Tar's live status from a current character-sheet screenshot: HP `19 / 31`, no temp HP, no conditions, Star Map Guiding Bolt `3 / 3`.
+- Corrected stale **Max HP** from `24` to `31` (mathematically correct for Druid 4 at CON +2); fixed in `profile.md`, `quick-reference.md`.
+- Recorded **Petrification Marks: 1** (was `Unknown`) in `profile.md`, `quick-reference.md`, `capabilities.md`. Per user, the digital sheet does NOT auto-apply mark penalties, so noted effective values: DEX `11 (+0)`, AC `13`, Init `+0`, DEX saves/skills `−1` from sheet display.
+
 ## 2026-06-17
 - Ingested full player notes for Sessions 1-5 plus the "To Kill a Wizard" one-shot as source `2026-05-19_player-notes-sessions-1-5.md`; recorded it in the source index.
 - Major canon correction: the "lady with the owl face" is **Lady Ravasin**, encountered and **killed by Tar in Session 2** (not an ongoing pursuit); the rescued "kidnapped daughter" is **Cara**, alive and traveling with the party.
