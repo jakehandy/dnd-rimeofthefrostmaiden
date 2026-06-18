@@ -2,19 +2,25 @@
 
 Use this page for the fastest lookup in session.
 
-## Baseline stats
-- AC 14 | Max HP 24 | Speed 35 ft | Initiative +1
+## Baseline stats (unmarked / sheet display)
+- AC 14 | Max HP 31 | Speed 35 ft | Initiative +1
 - Spellcasting: WIS | Save DC 13 | Spell attack +5
 - Passive scores: Perception 15, Insight 15, Investigation 9
+- NOTE: the digital sheet does NOT auto-apply Petrification Mark penalties; see snapshot for mark-adjusted values.
 
-## Current snapshot (`2026-02-11`)
-- HP: `24 / 24` last confirmed before latest combat hit
+## Current snapshot (`2026-06-18`)
+- HP: `19 / 31`
 - Temp HP: `--`
 - Defenses listed: None shown
 - Conditions listed: None shown
-- Guiding Bolt tracker text visible on sheet: `1 Use (2/3)`
+- Petrification Marks: `1`
+- Mark-adjusted effective stats (apply manually — sheet does not):
+  - DEX score `12 → 11` (modifier `+1 → +0`)
+  - AC `14 → 13`
+  - Initiative `+1 → +0`
+  - DEX saving throws and DEX skills (Acrobatics/Stealth/Sleight of Hand): `−1` from sheet values
+- Guiding Bolt (Star Map free uses): `3 / 3` available
 - Active skill modifiers shown: advantage on `Acrobatics` and `Athletics`
-- Latest combat note: one incoming attack missed Tar; one hit for `17` damage (mitigation usage Unknown)
 
 ## Combat turn checklist
 1. Start-of-turn effects
@@ -45,7 +51,7 @@ Use this page for the fastest lookup in session.
   - Temporary HP = `2 x Druid level`
 - Mountain Form cost: `+1 Petrification Mark` each use
 - Deferred homebrew (do not apply yet): `Crushing Magic`, `Rooted Presence`
-- Current Petrification Marks: Unknown
+- Current Petrification Marks: `1` (DEX score −1; effective AC 13, Init +0 — sheet does not auto-apply)
 
 ## RP cues for Tar
 - Observes more than he speaks (source text is partially truncated)

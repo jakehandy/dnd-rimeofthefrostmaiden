@@ -32,10 +32,11 @@ Status: `Confirmed from source images (partial text limits)`
   - "Balance before growth. Expansion without harmony ruins both civilization and nature."
 
 ## Core combat stats
-- AC: 14
-- Max HP: 24
-- Current HP: 24 (live update from `2026-02-11_session-002-live-updates.md`; full after healing)
-- Temp HP: -- (snapshot from `2026-02-11_tar-current-state-screenshot_notes.md`)
+- AC: 14 (sheet display; effective AC 13 with 1 Petrification Mark applied)
+- Max HP: 31
+- Current HP: 19 / 31 (snapshot 2026-06-18)
+- Temp HP: -- (snapshot 2026-06-18)
+- Petrification Marks: 1 (Mark 1 = DEX score −1; sheet does not auto-apply → effective DEX 11/+0, AC 13, Init +0, DEX saves/skills −1)
 - Speed: 35 ft (walking)
 - Initiative: +1
 - Proficiency Bonus: +2
