@@ -15,7 +15,7 @@
 ## Known encounters
 - Lonelywood attack (offscreen; villagers described "ghosts") — likely Duergar (S4).
 - Termalaine attack — repelled by the party and town (S5).
-- Four Duergar disintegrated by the mysterious woman + Dragonborn during the Termalaine fight (S5).
+- Four Duergar disintegrated by **Vellyenne Harpell** (Arcane Brotherhood wizard, identity resolved S6) during the Termalaine fight (S5).
 
 ## Leverage / threats
 - The missing Lonelywood Chardalyn stash — what are they building or powering?
