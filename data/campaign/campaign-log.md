@@ -1,5 +1,18 @@
 # Campaign Log
 
+## 2026-07-01
+- Ingested a pasted session recap covering the session played 2026-06-17 as source `2026-06-17_session-006-recap.md`; recorded it in the source index.
+- Numbering note: the player's own recap header calls this "Session 7." This repo's `session-00N.md` file sequence excludes the "To Kill a Wizard" one-shot from the count, so it's filed as `session-006.md` — same session, nothing missing. Flagged the same way the existing Arjay/Arhjay-style spelling divergence is flagged, rather than renumbering prior files.
+- Added canonical session file `session-006.md`.
+- Major reveal: the Session 5 "mysterious woman + hooded Dragonborn" are **Vellyenne Harpell** (Arcane Brotherhood wizard) and **Scrimwich**. Added dedicated NPC files for both; turned `mysterious-woman-and-dragonborn.md` into a resolved redirect stub rather than deleting it.
+- New funded quest: recover Vellyenne's stolen orb from fellow wizard **Vraxil** (funding + 1000 gp; bonus magic item if Vraxil is captured alive). Flagged an unconfirmed hypothesis that the orb may be the same Netherese artifact lost in the tundra inside Johnny Bag'em from the "To Kill a Wizard" one-shot.
+- Updated `arcane-brotherhood.md` with Vellyenne's membership, the deal terms, and her Chardalyn expertise (identified Za'mora's black crystal as refined, warded Chardalyn).
+- Updated `frost-druids.md`: a Frost Druid ordered a bandit ambush on the party and demanded Cara be handed over, and the letter indicates more Chardalyn is moving to other Ten-Towns (including Targos) — first direct link between the Frost Druids and the Chardalyn trade. Escalated their standing from passive interest to active aggression.
+- Updated `masthew.md` and `termalaine.md` with the ceremony of thanks (and the townsfolk friction over redirected Auril offerings) and Arjay's workshop fire.
+- Appended Session 6 story-arc entries to `arhjay.md` (Chardalyn IED experiments, bandit interrogation with a newly-noted immovable rod, tracing the letter to a Frost Druid) and `zmora.md` (Vellyenne's reaction to the black crystal / released horde).
+- Rewrote `current-state.md`, `quest-log.md`, and `campaign-overview.md`; appended Session 6 lines to `timeline.md`. Current position: en route from Termalaine to Targos.
+- Left one line from the raw recap ("Bukkake happens," in the ambush description) out of all canonical interpretive notes since its meaning wasn't clear enough to represent confidently; the verbatim text is preserved in the source file for the table to clarify if needed.
+
 ## 2026-06-17
 - Ingested full player notes for Sessions 1-5 plus the "To Kill a Wizard" one-shot as source `2026-05-19_player-notes-sessions-1-5.md`; recorded it in the source index.
 - Major canon correction: the "lady with the owl face" is **Lady Ravasin**, encountered and **killed by Tar in Session 2** (not an ongoing pursuit); the rescued "kidnapped daughter" is **Cara**, alive and traveling with the party.

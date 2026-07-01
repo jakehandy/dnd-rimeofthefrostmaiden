@@ -23,6 +23,11 @@
   - Canonical impact: Scaffold only, no character stats updated
 
 ## Campaign docs and rulings
+- `2026-06-17_session-006-recap.md`
+  - Origin: User-pasted session recap in chat (2026-07-01), covering the session played 2026-06-17 (player labels it "Session 7"; repo file sequence has it as Session 6 — one-shot excluded from numbering)
+  - Type: Verbatim session-recap transcription
+  - Notes: Identifies the Session 5 "mysterious woman + hooded Dragonborn" as **Vellyenne Harpell** (Arcane Brotherhood) and **Scrimwich**; introduces the Vraxil orb-recovery deal (1000 gp + possible magic item), confirms Chardalyn's raw/refined properties, and reveals via a bandit's letter that a Frost Druid ordered the ambush and wants "the girl" (Cara), with more Chardalyn moving to other Ten-Towns.
+  - Canonical impact: Added `session-006.md`; added Vellyenne Harpell and Scrimwich NPC files; resolved and pointed `mysterious-woman-and-dragonborn.md`; updated Arcane Brotherhood and Frost Druids faction files; updated Masthew and Termalaine; appended Session 6 arcs to Arjay and Za'mora; updated quest-log, timeline, current-state, campaign-overview.
 - `2026-05-19_player-notes-sessions-1-5.md`
   - Origin: User-pasted player notes in chat (2026-06-17), covering Sessions 1-5 plus the "To Kill a Wizard" one-shot
   - Type: Verbatim player-notes transcription

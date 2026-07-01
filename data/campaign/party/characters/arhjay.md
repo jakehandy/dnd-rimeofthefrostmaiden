@@ -43,3 +43,9 @@ Status: `Session 1 notes + confirmed visual reference`
 - S4: Revealed to the awakened plesiosaur that his group killed **Ravasin**, triggering its attack on Tar.
 - S5: With Za'mora, found Termalaine's Speaker **Masthew** and **warned him of the coming Duergar attack**, coordinating the town's defense.
 - Throughline: pragmatic, information-first mercenary; values intel and outcomes over righteous violence; a capable face/negotiator with the Ten-Towns Speakers.
+
+## Story arc, Session 6 (source: 2026-06-17 session recap)
+- Tested the explosive properties of unrefined **Chardalyn** and accidentally burned down a Termalaine blacksmith's workshop; used what he learned to start designing Chardalyn-based IEDs — the first of several he intends to build.
+- On the road to Targos, interrogated a captured bandit — using the **immovable rod** to nearly strangle him — and recovered a letter identifying a Frost Druid as the one ordering attacks on the party and demanding Cara be handed over. Traced the letter's authorship to a Frost Druid and learned the Druids are moving more Chardalyn to other Ten-Towns.
+- New/notable gear: **immovable rod** (first appearance this session; prior acquisition Unknown).
+- Throughline continues: still the party's information-first operator — now also its demolitions/interrogation specialist.

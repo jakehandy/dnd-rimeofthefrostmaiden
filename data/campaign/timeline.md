@@ -24,3 +24,8 @@ Format:
 - `Session 4 - 2026-04-14 - Crossing Maer Dualdon, an awakened plesiosaur (Ravasin's "child") nearly kills Tar; Cara erupts in power, drives it off, gains a white hair streak - Cara's emergent power revealed`
 - `Session 5 - 2026-05-19 - Party reaches Termalaine; Arjay warns Speaker Masthew; a Duergar band attacks but is repelled before major damage - Termalaine defended`
 - `Session 5 - 2026-05-19 - A mysterious woman and hooded Dragonborn disintegrate four Duergar to save the party - Powerful unknown ally/faction introduced`
+- `Session 6 - 2026-06-17 - The mysterious woman and Dragonborn introduce themselves as Vellyenne Harpell and Scrimwich of the Arcane Brotherhood - Session 5 mystery resolved`
+- `Session 6 - 2026-06-17 - Vellyenne explains Chardalyn's properties, identifies Za'mora's black crystal as refined warded Chardalyn, and strikes a deal to recover her orb from the wizard Vraxil for funding + 1000 gp (plus a magic item if Vraxil is taken alive) - New funded quest begins`
+- `Session 6 - 2026-06-17 - Arjay burns down a Termalaine blacksmith's workshop testing raw Chardalyn's explosive properties - Begins designing Chardalyn IEDs`
+- `Session 6 - 2026-06-17 - Masthew holds a ceremony thanking the party, redirecting Auril offerings to them - Some Termalaine townsfolk upset`
+- `Session 6 - 2026-06-17 - En route to Targos, bandits ambush the party; Arjay interrogates one and recovers a letter from a Frost Druid demanding Cara and referencing a Chardalyn shipment to other towns - Frost Druids escalate to direct aggression; Targos becomes a Chardalyn-trafficking lead`

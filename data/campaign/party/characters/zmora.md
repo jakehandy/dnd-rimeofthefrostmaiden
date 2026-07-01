@@ -41,3 +41,8 @@ Status: `Session 1 notes + confirmed visual reference`
 - S5: With Arjay, sought out Speaker **Masthew** in Termalaine. Received **magical arrows** from Hadrian (bought cheap from an unaware shopkeeper). **Revived Tar** at the start of the session.
 - Gear gained: **horn of blasting** (S4), **magical arrows** (S5).
 - Throughline: the party's tracker/scout and ranged threat; reliable in a pinch (revives, recon, archery).
+
+## Story arc, Session 6 (source: 2026-06-17 session recap)
+- Called out by name: Vellyenne Harpell was visibly distressed to learn that **Za'mora** was the one who unleashed the horde of monstrosities from the Netherese moon-cave (by removing the black crystal in S2).
+- Vellyenne examined Za'mora's black crystal and identified it as the most refined Chardalyn she's ever seen, warded with a spell — the party's clearest read yet on what that crystal actually is.
+- Still holds the black crystal as of this session; its fate (kept, studied, or handed over) is an open thread.
