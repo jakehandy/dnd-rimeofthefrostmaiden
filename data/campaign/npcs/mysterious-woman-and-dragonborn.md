@@ -1,18 +1,12 @@
-# Mysterious Woman & Hooded Dragonborn
+# Mysterious Woman & Hooded Dragonborn — IDENTIFIED
 
-## Snapshot
-- Role: Powerful unknown intervenors
-- Affiliation: Unknown
-- First seen: Session 5 (Termalaine)
-- Current status: At large; intentions unknown
-
-## What we know
-- A "mysterious, strangely attractive woman," accompanied by a **Dragonborn in a hooded cloak**, **disintegrated four Duergar** that meant to attack the party during the Termalaine fight (S5).
-- The display of power (disintegrating four foes at once) marks them as significant.
-
-## Relationship to party
-- Acted to protect the party — but motive, allegiance, and identity are all Unknown.
-
-## Hooks and leverage
-- Are they an ally, a recruiter, a manipulator, or another faction watching Cara / the party?
-- High-priority unknown to identify next session.
+> **Resolved in Session 7.** The "mysterious, strikingly attractive woman" and her
+> hooded Dragonborn who disintegrated four Duergar to save the party in Termalaine
+> (Session 5) are now identified:
+>
+> - The woman = **Vellyenne Harpell**, wizard of the Arcane Brotherhood — see
+>   `data/campaign/npcs/vellyenne-harpell.md`.
+> - The Dragonborn = **Scrimwich**, her companion — see
+>   `data/campaign/npcs/scrimwich.md`.
+>
+> This stub is kept so older references resolve. Use the two files above going forward.

@@ -23,6 +23,16 @@
   - Canonical impact: Scaffold only, no character stats updated
 
 ## Campaign docs and rulings
+- `2026-06-30_session-008-notes.md`
+  - Origin: User-pasted Session 8 player notes in chat (2026-07-22); session label "Session 8, 6/30/26"
+  - Type: Verbatim player-notes transcription (immutable)
+  - Notes: Cara abducted after a bandit skirmish and recovered; mercenary confesses **Lady Yshma** (Church of the Frostmaiden) hired the team; party reaches **Targos** (Speaker **Naerth** sacrificing to Auril); smith **Garn the Hammer** (Bryn Shander) lead; **Targos mines** kobolds guard against a **Chardalyn vein**; kobold **Grek** leads to "Dragon Lord" **Snowtoe the Coldbold**. User correction applied: the kobold lord is **Snowtoe** (not "Cameltoe").
+  - Canonical impact: Added `session-008.md`; new NPCs (Theythum, Lady Yshma, Naerth, Garn the Hammer, Grek, Snowtoe the Coldbold); new locations (Targos, Bryn Shander); updated Cara, Frost Druids, dashboards, timeline, campaign-log
+- `2026-06-17_session-007-notes.md`
+  - Origin: User-pasted Session 7 player notes in chat (2026-07-22); session label "Session 7, 6/17/26". Session 6 was skipped.
+  - Type: Verbatim player-notes transcription (immutable)
+  - Notes: Introduces **Vellyenne Harpell** (Arcane Brotherhood) + **Scrimwich** — resolving the S5 "mysterious woman + Dragonborn"; **Chardalyn** lore (raw volatile / refined spell-storing); identifies Za'mora's **Black Crystal** as refined, warded Chardalyn; Vellyenne's deal (orb → 1,000 gp; **Vraxil** alive → magic item); Arjay's blacksmith fire + Chardalyn IEDs; Masthew's thanks ceremony; bandit ambush with a frost-druid "bring us the girl" letter and news of druids moving Chardalyn between towns.
+  - Canonical impact: Added `session-007.md`; new NPCs (Vellyenne Harpell, Scrimwich); rewrote the mysterious-woman stub to point to them; updated Arcane Brotherhood and Frost Druids factions, Cara, and all dashboards
 - `2026-05-19_player-notes-sessions-1-5.md`
   - Origin: User-pasted player notes in chat (2026-06-17), covering Sessions 1-5 plus the "To Kill a Wizard" one-shot
   - Type: Verbatim player-notes transcription

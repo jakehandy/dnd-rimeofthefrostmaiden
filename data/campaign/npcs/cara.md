@@ -15,6 +15,8 @@
 - Frost Druids recognized her as Ravasin's ritual girl and are very interested in her (S4).
 - Crossing Maer Dualdon, she entered a magical state, drove off an awakened plesiosaur, stabilized a dying Tar, then collapsed — afterward a **white streak** appeared in her hair (S4).
 - In Termalaine a herbalist's homemade potion of fire breathing forced her awake (S5).
+- A frost-druid letter found on an ambushing bandit read *"...bring us the girl"* — the druids are actively targeting her (S7).
+- She was **abducted** after a bandit skirmish by a red-bearded, eyepatched mercenary, then **rescued** by Za'mora and Arjay (S8). Interrogation revealed the mercenaries were **hired by Lady Yshma**, a prominent frost druid of the Church of the Frostmaiden, to bring Cara to the druids (S8).
 
 ## Relationship to party
 - The party feels responsible for her and is escorting her toward a cure in Easthaven.
@@ -23,4 +25,5 @@
 ## Hooks and leverage
 - Only a full reversal (Druid Creuse Pelleteuse, Easthaven) is believed able to cure her.
 - Her emergent power and white streak suggest a transformation/arc — nature Unknown.
-- The Frost Druids want her; she is a target as well as a charge.
+- The Frost Druids want her; she is a target as well as a charge. **Lady Yshma** (S8) is the named druid actively trying to seize her — expect further attempts.
+- She now travels with a guard, **Theythum** (S8).

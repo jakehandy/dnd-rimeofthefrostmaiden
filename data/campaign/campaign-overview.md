@@ -1,10 +1,10 @@
 # Campaign Overview
 
 - Campaign: Rime of the Frostmaiden
-- Current party objective: Get Cara to a cure in Easthaven while countering the Ten-Towns Duergar offensive and following the Auril/Ythryn/Netherese threads
-- Current location: **Termalaine** (Ten-Town on Maer Dualdon), en route to Easthaven
-- Current arc: Aftermath of the moon-cave delve — escorting the cursed girl Cara, the rising Duergar war, and the unsealed Netherese horror
-- Sessions played: 1-5 (plus the "To Kill a Wizard" one-shot, 2026-03-03)
+- Current party objective: Protect and cure Cara, deal with the Targos mines / Chardalyn, and follow the Auril / Frostmaiden / Netherese threads (Easthaven cure still standing)
+- Current location: **Targos** (Ten-Town on Maer Dualdon), investigating the kobold-held mines
+- Current arc: The Chardalyn and the Church of the Frostmaiden — the frost druids hunt Cara, Targos falls to Auril-worship, and the kobolds guard a Chardalyn vein
+- Sessions played: 1-5, 7, 8 (Session 6 skipped; plus the "To Kill a Wizard" one-shot, 2026-03-03)
 
 ## Known party members
 - Tar (user character) — Goliath Druid
@@ -15,21 +15,22 @@
 
 > Spelling note: the player's own notes use **Arjay**, **Za'mora**, and **Ravasin**; earlier repo files use Arhjay, Z'Mora, Ravisin. Same characters; standardization pending user call.
 
-## Traveling NPC
-- **Cara** — the girl rescued from Ravasin's ritual; stabilized but not cured, developing strange power (white hair streak); the party's responsibility.
+## Traveling NPCs
+- **Cara** — the girl rescued from Ravasin's ritual; stabilized but not cured, developing strange power (white hair streak); the party's responsibility. Abducted and recovered in S8; hunted by the frost druids.
+- **Theythum** — a guard now watching over Cara (S8).
 
 ## Party references
 - Roster: `data/campaign/party/roster.md`
 - Image continuity guide: `data/campaign/party/image-guidelines.md`
 
 ## Open threads
-- **Cara's cure** — only a full reversal (Creuse Pelleteuse, Easthaven) can save her.
-- **Duergar offensive** — coordinated attacks (Lonelywood destroyed, Termalaine held), a missing Chardalyn stash, and a possible link to the endless darkness/rime.
-- **Auril mystery** — Uriel's charge to learn what happened to Auril; Michael disturbed by the unsealed creatures.
-- **Ythryn warning** — "Ythryn is lost. The seal is broken. They are awake"; one-eyed psychic monstrosities now loose.
-- **Arcane Brotherhood** — Vraxil, Dzaan, and a lost Netherese artifact (one-shot); Easthaven stir.
-- **Mysterious woman + hooded Dragonborn** — powerful unknowns who saved the party in Termalaine.
-- **Frost Druids (Ravasin's order)** — still active, fixated on Cara.
+- **Cara's cure & safety** — only a full reversal (Creuse Pelleteuse, Easthaven) can save her; the frost druids keep trying to abduct her.
+- **Chardalyn** — raw = volatile/explosive, refined = spell-storing; a vein sits deep in the Targos mines; druids are moving it between towns; Za'mora holds a refined, warded **Black Crystal**; Arjay builds Chardalyn IEDs.
+- **Targos mines** — kobolds guarding against the Chardalyn vein under "Dragon Lord" **Snowtoe the Coldbold** (via **Grek**).
+- **Church of the Frostmaiden / Auril** — Targos Speaker **Naerth** sacrifices to Auril; frost druid **Lady Yshma** hunts Cara; Uriel's charge to learn Auril's fate continues.
+- **Arcane Brotherhood** — **Vellyenne Harpell** (+ **Scrimwich**) is a cooperative quest-giver; **Vraxil** stole her orb and is wanted alive; ties to the one-shot's lost Netherese artifact.
+- **Ythryn warning** — "the seal is broken; they are awake"; the unleashed moon-cave monstrosities remain loose.
+- **Duergar offensive** — Lonelywood destroyed, Termalaine held; status since Termalaine unrecorded.
 
 ## Risks
 - Cara dies if the party is too slow to reach Easthaven.
@@ -47,3 +48,6 @@
 - White Moose threat ended (S1).
 - "Lady with the owl face" identified as Lady Ravasin and killed (S2).
 - Kidnapped daughter recovered alive as Cara (S2-S4).
+- Mysterious woman + Dragonborn identified as **Vellyenne Harpell** + **Scrimwich** (S7).
+- Cara's S8 abduction foiled; **Lady Yshma** exposed as the frost druid behind it (S8).
+- "Dragon in the Targos mines" explained as the kobold "Dragon Lord" **Snowtoe the Coldbold** (S8).

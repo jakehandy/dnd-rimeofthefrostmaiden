@@ -1,5 +1,16 @@
 # Campaign Log
 
+## 2026-07-22
+- Ingested **Session 7** (2026-06-17) and **Session 8** (2026-06-30) player notes as immutable sources (`2026-06-17_session-007-notes.md`, `2026-06-30_session-008-notes.md`); recorded both in the source index. **Session 6 was skipped** (no session played).
+- Added canonical session files `session-007.md` and `session-008.md`.
+- **Resolved the "mysterious woman + hooded Dragonborn" (S5):** identified as **Vellyenne Harpell** (Arcane Brotherhood wizard) and her Dragonborn companion **Scrimwich** (S7). Rewrote `mysterious-woman-and-dragonborn.md` as a redirect stub and added NPC files for both.
+- Recorded S7 developments: **Chardalyn** lore (raw = volatile/explosive; refined = spell-storing); Za'mora's **Black Crystal** identified as refined, warded Chardalyn; **Vellyenne's deal** (orb → 1,000 gp; **Vraxil** alive → magic item); Arjay's Chardalyn IEDs; Masthew's thanks ceremony; the bandit ambush and frost-druid "bring us the girl" letter. Updated the **Arcane Brotherhood** faction accordingly.
+- Recorded S8 developments: **Cara abducted and recovered**; the mercenary confessed **Lady Yshma** (Church of the Frostmaiden) hired the team. Party reached **Targos** (new Speaker **Naerth** sacrificing to Auril); learned of smith **Garn the Hammer** in **Bryn Shander**; in the **Targos mines**, kobold **Grek** revealed the kobolds guard against a deep **Chardalyn vein** and led them to the kobold "Dragon Lord" **Snowtoe the Coldbold**.
+- Added NPC files: Theythum, Lady Yshma, Naerth, Garn the Hammer, Grek, Snowtoe the Coldbold. Added location files: Targos, Bryn Shander.
+- Updated the **Frost Druids** faction (Lady Yshma; Church of the Frostmaiden; Chardalyn distribution) and **Cara** (abduction/rescue, Theythum, Lady Yshma).
+- Rewrote dashboards `current-state.md` and `quest-log.md`; updated `campaign-overview.md`, `timeline.md`, and `party/roster.md`. Current position: **Targos**, investigating the kobold-held mines.
+- User corrections applied mid-ingest: the kobold "Dragon Lord" is **Snowtoe** (not "Cameltoe"); **Session 6 was skipped**.
+
 ## 2026-06-17
 - Ingested full player notes for Sessions 1-5 plus the "To Kill a Wizard" one-shot as source `2026-05-19_player-notes-sessions-1-5.md`; recorded it in the source index.
 - Major canon correction: the "lady with the owl face" is **Lady Ravasin**, encountered and **killed by Tar in Session 2** (not an ongoing pursuit); the rescued "kidnapped daughter" is **Cara**, alive and traveling with the party.
