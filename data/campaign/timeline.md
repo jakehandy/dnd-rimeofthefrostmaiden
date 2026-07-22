@@ -24,3 +24,10 @@ Format:
 - `Session 4 - 2026-04-14 - Crossing Maer Dualdon, an awakened plesiosaur (Ravasin's "child") nearly kills Tar; Cara erupts in power, drives it off, gains a white hair streak - Cara's emergent power revealed`
 - `Session 5 - 2026-05-19 - Party reaches Termalaine; Arjay warns Speaker Masthew; a Duergar band attacks but is repelled before major damage - Termalaine defended`
 - `Session 5 - 2026-05-19 - A mysterious woman and hooded Dragonborn disintegrate four Duergar to save the party - Powerful unknown ally/faction introduced`
+- `Session 6 - SKIPPED - No session played / no notes - (gap; not part of the record)`
+- `Session 7 - 2026-06-17 - The mysterious pair are named: Vellyenne Harpell (Arcane Brotherhood) and Scrimwich; she explains Chardalyn and IDs Za'mora's Black Crystal as refined, warded Chardalyn - Mystery-woman thread resolved; Chardalyn lore gained`
+- `Session 7 - 2026-06-17 - Vellyenne offers a deal: 1,000 gp for her stolen orb, plus a magic item for Vraxil alive; Masthew holds a thanks ceremony in Termalaine - Brotherhood contract accepted-in-principle; Vraxil now a bounty`
+- `Session 7 - 2026-06-17 - En route to Targos the party is ambushed by bandits; Arjay finds a frost-druid letter ordering "bring us the girl" and learns druids are moving Chardalyn between towns - Frost-druid plot against Cara confirmed`
+- `Session 8 - 2026-06-30 - After the bandit skirmish Cara is abducted (guard Theythum knocked out); Za'mora and Arjay track and recover her; the mercenary confesses Lady Yshma (Church of the Frostmaiden) hired the team - Cara rescued; Lady Yshma named as antagonist`
+- `Session 8 - 2026-06-30 - The party reaches Targos: new Speaker Naerth sacrifices to Auril; Tar learns of smith Garn the Hammer in Bryn Shander - Targos crisis and armor lead established`
+- `Session 8 - 2026-06-30 - In the Targos mines, kobold Grek reveals the kobolds guard against a deep Chardalyn vein and leads the party to their "Dragon Lord," the kobold Snowtoe the Coldbold - Kobold menace reframed; dragon rumor explained`
